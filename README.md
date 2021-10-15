@@ -117,7 +117,7 @@ SF-36
 ### List of Constructs:	
 #### Categories
 
-- States (Physiologic / Affective
+- States (Physiologic / Affective)
 - Cognitive and Executive functions
 - Behavioral Stability (Aggression)
 - General / Interpersonal Functioning 
@@ -131,14 +131,10 @@ SF-36
 
 #### Constructs
 - Mood / Happiness / Affect 
-- General Activation /  
-Wakefulness 
-- Physical 
-Activation / 
-Agitation 
+- General Activation / Wakefulness 
+- Physical Activation / Agitation 
 - Affective 
-Activation /
- Alerting 
+Activation / Alerting 
  - Cognitive-
 Sensory 
 Clearness	
