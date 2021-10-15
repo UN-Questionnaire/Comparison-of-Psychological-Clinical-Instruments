@@ -11,8 +11,6 @@ An extensive visual and statistical comparison of 60 Clinical Questionnaires. In
 The comparison displays **item construct belongings**, **instrument classification**, **detailed instrument properties** like duration, effectivity scores, validation and normation status, license  information and resources. Respective **epidemiologic studies** have been added as well.
 
 ## Graphic
-
-
 [Comparison of Clinical Instruments (PDF)](https://github.com/UN-Questionnaire/Comparison-of-Psychological-Clinical-Instruments/Comparison.0.14.pdf) 
 
 
