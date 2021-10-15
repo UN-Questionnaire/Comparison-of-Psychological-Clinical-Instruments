@@ -16,6 +16,8 @@ The comparison displays **item construct belongings**, **instrument classificati
 
 *The pdf is very large, some pdf readers, like firefox, might not zoom in properly*
 
+----
+
 ### List of Clinical Instruments: 
 
 **General Well-
