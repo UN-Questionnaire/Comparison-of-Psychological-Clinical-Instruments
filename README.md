@@ -9,15 +9,8 @@ An extensive visual and statistical comparison of 60 Clinical Questionnaires. In
 ### Contents
 
 The comparison displays **item construct belongings**, **instrument classification**, **detailed instrument properties** like duration, effectivity scores, validation and normation status, license  information and resources. Respective **epidemiologic studies** have been added as well.
-##### Note
 
-The items of each questionnaire have been re-classified and do not necessarily match the classification of the authors - also validation- and normation-ratings underly a strong subjective aspect - therefor all information should be interpreted with caution. 
 ## Graphic
- 
-
-
-
-
 
 
 [Comparison of Clinical Instruments (PDF)](https://github.com/UN-Questionnaire/Comparison-of-Psychological-Clinical-Instruments/Comparison.0.14.pdf) 
@@ -123,16 +116,15 @@ SF-36
 
 
 
-### List of States:	
+### List of Constructs:	
 #### Categories
 
 - States (Physiologic / Affective
--   Cognitive and Executive functions
--  Behavioral Stability (Aggression)
+- Cognitive and Executive functions
+- Behavioral Stability (Aggression)
 - General / Interpersonal Functioning 
 - Obsessive-Compulsory	
 - Depression 
-
 - Anxiety	
 - Personality Trait	
 - Psychoticism		
@@ -140,13 +132,6 @@ SF-36
 
 
 #### Constructs
-
-
-
-
-
-
-
 - Mood / Happiness / Affect 
 - General Activation /  
 Wakefulness 
@@ -179,18 +164,14 @@ Functioning
 - General 
 Functioning 
 Daily and Environmental 
-- Self-
-Efficacy 
-- Inter-
-personal 
+- Self-Efficacy 
+- Interpersonal 
 Functioning 
 - Social Self 
 Concept 
-- Attach
-ment
+- Attachment
  Problems 
-- Anti-
-Social	
+- Anti-Social	
 - Anger / 
 Aggression	
 - Impulse 
@@ -207,13 +188,11 @@ Thoughts
 Behavior 
 - Self-Harm /
 Suicidal Ideation	
-- Post-
-Trauma 
+- Post-Trauma 
 - Sexuality	
 - Sleep	
 - Eating 
-Disreg
-ulation 
+Disregulation 
 - Specific
  Somatic 
 Symptoms 
@@ -262,10 +241,7 @@ Normed
 
 - Languages (English, Other)
 
-- Overall 
-Documen
-tation / 
-Accessibility (ease of finding resources and navigating)
+- Overall Documentation / Accessibility (ease of finding resources and navigating)
 
 - 'Influenced-by' Instruments
 
@@ -277,8 +253,11 @@ Accessibility (ease of finding resources and navigating)
 - Instrument Overall Efficiency 
 (Construct Efficiency * Constructs)
 
-- Popularity (Google Scholar and PubPsych Database occurences)							
+- Popularity (Google Scholar and PubPsych Database occurences)	
+						
 ### Further Development
-The comparison of clinical instruments inspired the creation of the UN-Q Ultraefficient-Neuroscientific Questionnaire which is currently available in [English](https://github.com/UN-Questionnaire/UN-Questionnaire-en) and [German](https://github.com/UN-Questionnaire/UN-Questionnaire-de), as well as an online adaption of the DSM-5 Crosscutting Symptoms Screener in [English](### [DSM-5-Crosscutting-Symptoms-en](https://github.com/UN-Questionnaire/DSM-5-Crosscutting-Symptoms-en) and [German](### [DSM-5-Crosscutting-Symptoms-en](https://github.com/UN-Questionnaire/DSM-5-Crosscutting-Symptoms-de).																
+The comparison of clinical instruments inspired the creation of the UN-Q Ultraefficient-Neuroscientific Questionnaire which is currently available in [English](https://github.com/UN-Questionnaire/UN-Questionnaire-en) and [German](https://github.com/UN-Questionnaire/UN-Questionnaire-de), as well as an online adaption of the DSM-5 Crosscutting Symptoms Screener in [English](https://github.com/UN-Questionnaire/DSM-5-Crosscutting-Symptoms-en) and [German](https://github.com/UN-Questionnaire/DSM-5-Crosscutting-Symptoms-de).																
 
+##### Note
 
+The items of each questionnaire have been re-classified and do not necessarily match the classification of the authors - also validation- and normation-ratings underly a strong subjective aspect - therefor all information should be interpreted with caution. 
