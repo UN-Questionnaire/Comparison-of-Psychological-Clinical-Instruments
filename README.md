@@ -5,13 +5,15 @@
 ![Comparison overlays 2 smaller](https://user-images.githubusercontent.com/53947237/136798685-e9d7f190-c705-4cb8-a0f1-d2702db76e1f.png)
 # Comparison of Psychological Clinical Instruments
 
-### Introduction
+## Introduction
 An extensive visual and statistical comparison of 60 Clinical Questionnaires. Initially created while searching for an highly-efficient test-battery for measuring neuropsychological states and correlates. 
 
 
 The comparison displays **item construct belongings**, **instrument classification**, **detailed instrument properties** like duration, effectivity scores, validation and normation status, license  information and resources. Respective **epidemiologic studies** have been added as well.
 
 ## Graphic
+
+
 [Comparison of Clinical Instruments (PDF)](https://github.com/UN-Questionnaire/Comparison-of-Psychological-Clinical-Instruments/Comparison.0.14.pdf) 
 
 
@@ -194,9 +196,7 @@ Disregulation
 Symptoms 
 - Somatic
  Fear 
- - Panic /
- Agora-
-phobia
+ - Panic / Agoraphobia
 - Specific
  Phobia 
  - Genera
