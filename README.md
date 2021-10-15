@@ -5,8 +5,9 @@
 ![Comparison overlays 2 smaller](https://user-images.githubusercontent.com/53947237/136798685-e9d7f190-c705-4cb8-a0f1-d2702db76e1f.png)
 # Comparison of Psychological Clinical Instruments
 
+### Introduction
 An extensive visual and statistical comparison of 60 Clinical Questionnaires. Initially created while searching for an highly-efficient test-battery for measuring neuropsychological states and correlates. 
-### Contents
+
 
 The comparison displays **item construct belongings**, **instrument classification**, **detailed instrument properties** like duration, effectivity scores, validation and normation status, license  information and resources. Respective **epidemiologic studies** have been added as well.
 
@@ -16,9 +17,8 @@ The comparison displays **item construct belongings**, **instrument classificati
 
 *The pdf is very large, some pdf readers, like firefox, might not zoom in properly*
 
-----
 
-### List of Clinical Instruments: 
+## List of Clinical Instruments: 
 
 **General Well-
 Being / Ultra-
